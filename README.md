@@ -3,4 +3,4 @@ Mash Race was made in (well under) 48 hours for the Mini Ludum Dare, number 54.<
 	The game was made using<br>
 	- HTML / JavaScript / CSS<br>
 	- [Three.js](http://threejs.org) (Open-Source 3D JavaScript Library)<br>
-	- [Brackets]("http://www.brackets.io") as a text editor / live debugger<br><br>
+	- [Brackets](http://www.brackets.io) as a text editor / live debugger<br><br>
